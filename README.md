@@ -1,0 +1,1 @@
+This app converts given temperature to celcius, fahrenheit, and kelvin
